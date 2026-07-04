@@ -51,7 +51,7 @@
       "website": "https://chat.openai.com",
       "pwaUrl": "https://chat.openai.com",
       "manifestUrl": "https://chat.openai.com/manifest.json",
-      "icon": "https://cdn.openai.com/chatbot-ui/logo-16x16.png",
+      "icon": "https://www.google.com/s2/favicons?domain=chat.openai.com&sz=64",
       "tags": [
         "ai",
         "chatbot",
@@ -76,7 +76,7 @@
       "website": "https://claude.ai",
       "pwaUrl": "https://claude.ai",
       "manifestUrl": "https://claude.ai/manifest.json",
-      "icon": "https://claude.ai/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
       "tags": [
         "ai",
         "assistant",
@@ -101,7 +101,7 @@
       "website": "https://gemini.google.com",
       "pwaUrl": "https://gemini.google.com",
       "manifestUrl": "https://gemini.google.com/manifest.json",
-      "icon": "https://www.gstatic.com/ai/dist/gemini-logo.png",
+      "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64",
       "tags": [
         "ai",
         "google",
@@ -126,7 +126,7 @@
       "website": "https://www.perplexity.ai",
       "pwaUrl": "https://www.perplexity.ai",
       "manifestUrl": "https://www.perplexity.ai/manifest.json",
-      "icon": "https://www.perplexity.ai/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=64",
       "tags": [
         "ai",
         "search",
@@ -151,7 +151,7 @@
       "website": "https://poe.com",
       "pwaUrl": "https://poe.com",
       "manifestUrl": "https://poe.com/manifest.json",
-      "icon": "https://poe.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=poe.com&sz=64",
       "tags": [
         "ai",
         "chatbot",
@@ -176,7 +176,7 @@
       "website": "https://chat.deepseek.com",
       "pwaUrl": "https://chat.deepseek.com",
       "manifestUrl": "https://chat.deepseek.com/manifest.json",
-      "icon": "https://chat.deepseek.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=chat.deepseek.com&sz=64",
       "tags": [
         "ai",
         "chatbot",
@@ -201,7 +201,7 @@
       "website": "https://cohere.com",
       "pwaUrl": "https://cohere.com",
       "manifestUrl": "https://cohere.com/manifest.json",
-      "icon": "https://cohere.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=cohere.com&sz=64",
       "tags": [
         "ai",
         "enterprise",
@@ -226,7 +226,7 @@
       "website": "https://huggingface.co/chat",
       "pwaUrl": "https://huggingface.co/chat",
       "manifestUrl": "https://huggingface.co/chat/manifest.json",
-      "icon": "https://huggingface.co/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64",
       "tags": [
         "ai",
         "opensource",
@@ -251,7 +251,7 @@
       "website": "https://writesonic.com",
       "pwaUrl": "https://writesonic.com",
       "manifestUrl": "https://writesonic.com/manifest.json",
-      "icon": "https://writesonic.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=writesonic.com&sz=64",
       "tags": [
         "ai",
         "writing",
@@ -276,7 +276,7 @@
       "website": "https://www.jasper.ai",
       "pwaUrl": "https://www.jasper.ai",
       "manifestUrl": "https://www.jasper.ai/manifest.json",
-      "icon": "https://www.jasper.ai/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.jasper.ai&sz=64",
       "tags": [
         "ai",
         "content",
@@ -301,7 +301,7 @@
       "website": "https://www.copy.ai",
       "pwaUrl": "https://www.copy.ai",
       "manifestUrl": "https://www.copy.ai/manifest.json",
-      "icon": "https://www.copy.ai/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.copy.ai&sz=64",
       "tags": [
         "ai",
         "copywriting",
@@ -326,7 +326,7 @@
       "website": "https://rytr.me",
       "pwaUrl": "https://rytr.me",
       "manifestUrl": "https://rytr.me/manifest.json",
-      "icon": "https://rytr.me/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=rytr.me&sz=64",
       "tags": [
         "ai",
         "writing",
@@ -351,7 +351,7 @@
       "website": "https://anyword.com",
       "pwaUrl": "https://anyword.com",
       "manifestUrl": "https://anyword.com/manifest.json",
-      "icon": "https://anyword.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=anyword.com&sz=64",
       "tags": [
         "ai",
         "copywriting",
@@ -376,7 +376,7 @@
       "website": "https://frase.io",
       "pwaUrl": "https://frase.io",
       "manifestUrl": "https://frase.io/manifest.json",
-      "icon": "https://frase.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=frase.io&sz=64",
       "tags": [
         "ai",
         "seo",
@@ -401,7 +401,7 @@
       "website": "https://surferseo.com",
       "pwaUrl": "https://surferseo.com",
       "manifestUrl": "https://surferseo.com/manifest.json",
-      "icon": "https://surferseo.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=surferseo.com&sz=64",
       "tags": [
         "ai",
         "seo",
@@ -425,7 +425,7 @@
       "website": "https://inkforall.com",
       "pwaUrl": "https://inkforall.com",
       "manifestUrl": "https://inkforall.com/manifest.json",
-      "icon": "https://inkforall.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=inkforall.com&sz=64",
       "tags": [
         "ai",
         "content",
@@ -450,7 +450,7 @@
       "website": "https://neuraltext.com",
       "pwaUrl": "https://neuraltext.com",
       "manifestUrl": "https://neuraltext.com/manifest.json",
-      "icon": "https://neuraltext.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=neuraltext.com&sz=64",
       "tags": [
         "ai",
         "content",
@@ -475,7 +475,7 @@
       "website": "https://web.whatsapp.com",
       "pwaUrl": "https://web.whatsapp.com",
       "manifestUrl": "https://web.whatsapp.com/manifest.json",
-      "icon": "https://static.whatsapp.net/rsrc.php/v3/yP/r/rYZqPCBaG70.png",
+      "icon": "https://www.google.com/s2/favicons?domain=web.whatsapp.com&sz=64",
       "tags": [
         "chat",
         "messaging",
@@ -500,7 +500,7 @@
       "website": "https://web.telegram.org/z/",
       "pwaUrl": "https://web.telegram.org/z/",
       "manifestUrl": "https://web.telegram.org/z//manifest.json",
-      "icon": "https://telegram.org/img/t_logo.png",
+      "icon": "https://www.google.com/s2/favicons?domain=web.telegram.org&sz=64",
       "tags": [
         "chat",
         "messaging",
@@ -525,7 +525,7 @@
       "website": "https://discord.com/app",
       "pwaUrl": "https://discord.com/app",
       "manifestUrl": "https://discord.com/app/manifest.json",
-      "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
+      "icon": "https://www.google.com/s2/favicons?domain=discord.com&sz=64",
       "tags": [
         "chat",
         "voice",
@@ -551,7 +551,7 @@
       "website": "https://app.slack.com",
       "pwaUrl": "https://app.slack.com",
       "manifestUrl": "https://app.slack.com/manifest.json",
-      "icon": "https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_512.png",
+      "icon": "https://www.google.com/s2/favicons?domain=app.slack.com&sz=64",
       "tags": [
         "chat",
         "teams",
@@ -576,7 +576,7 @@
       "website": "https://teams.microsoft.com",
       "pwaUrl": "https://teams.microsoft.com",
       "manifestUrl": "https://teams.microsoft.com/manifest.json",
-      "icon": "https://teams.microsoft.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=teams.microsoft.com&sz=64",
       "tags": [
         "chat",
         "video",
@@ -601,7 +601,7 @@
       "website": "https://zoom.us/wc",
       "pwaUrl": "https://zoom.us/wc",
       "manifestUrl": "https://zoom.us/wc/manifest.json",
-      "icon": "https://zoom.us/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
       "tags": [
         "video",
         "meetings",
@@ -626,7 +626,7 @@
       "website": "https://web.skype.com",
       "pwaUrl": "https://web.skype.com",
       "manifestUrl": "https://web.skype.com/manifest.json",
-      "icon": "https://secure.skypeassets.com/static/skype-glyph-redesign.svg",
+      "icon": "https://www.google.com/s2/favicons?domain=web.skype.com&sz=64",
       "tags": [
         "video",
         "calls",
@@ -651,7 +651,7 @@
       "website": "https://www.messenger.com",
       "pwaUrl": "https://www.messenger.com",
       "manifestUrl": "https://www.messenger.com/manifest.json",
-      "icon": "https://www.facebook.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.messenger.com&sz=64",
       "tags": [
         "chat",
         "messaging",
@@ -675,7 +675,7 @@
       "website": "https://chat.google.com",
       "pwaUrl": "https://chat.google.com",
       "manifestUrl": "https://chat.google.com/manifest.json",
-      "icon": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
+      "icon": "https://www.google.com/s2/favicons?domain=chat.google.com&sz=64",
       "tags": [
         "chat",
         "teams",
@@ -700,7 +700,7 @@
       "website": "https://app.wire.com",
       "pwaUrl": "https://app.wire.com",
       "manifestUrl": "https://app.wire.com/manifest.json",
-      "icon": "https://app.wire.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.wire.com&sz=64",
       "tags": [
         "chat",
         "security",
@@ -725,7 +725,7 @@
       "website": "https://signal.me",
       "pwaUrl": "https://signal.me",
       "manifestUrl": "https://signal.me/manifest.json",
-      "icon": "https://signal.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=signal.me&sz=64",
       "tags": [
         "chat",
         "privacy",
@@ -750,7 +750,7 @@
       "website": "https://threema.ch",
       "pwaUrl": "https://threema.ch",
       "manifestUrl": "https://threema.ch/manifest.json",
-      "icon": "https://threema.ch/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=threema.ch&sz=64",
       "tags": [
         "chat",
         "security",
@@ -775,7 +775,7 @@
       "website": "https://app.element.io",
       "pwaUrl": "https://app.element.io",
       "manifestUrl": "https://app.element.io/manifest.json",
-      "icon": "https://app.element.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.element.io&sz=64",
       "tags": [
         "chat",
         "matrix",
@@ -800,7 +800,7 @@
       "website": "https://rocket.chat",
       "pwaUrl": "https://rocket.chat",
       "manifestUrl": "https://rocket.chat/manifest.json",
-      "icon": "https://rocket.chat/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=rocket.chat&sz=64",
       "tags": [
         "chat",
         "team",
@@ -825,7 +825,7 @@
       "website": "https://zulip.com",
       "pwaUrl": "https://zulip.com",
       "manifestUrl": "https://zulip.com/manifest.json",
-      "icon": "https://zulip.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=zulip.com&sz=64",
       "tags": [
         "chat",
         "team",
@@ -850,7 +850,7 @@
       "website": "https://www.notion.so",
       "pwaUrl": "https://www.notion.so",
       "manifestUrl": "https://www.notion.so/manifest.json",
-      "icon": "https://www.notion.so/images/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.notion.so&sz=64",
       "tags": [
         "notes",
         "docs",
@@ -877,7 +877,7 @@
       "website": "https://trello.com/app",
       "pwaUrl": "https://trello.com/app",
       "manifestUrl": "https://trello.com/app/manifest.json",
-      "icon": "https://trello.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=trello.com&sz=64",
       "tags": [
         "kanban",
         "project",
@@ -903,7 +903,7 @@
       "website": "https://todoist.com/app",
       "pwaUrl": "https://todoist.com/app",
       "manifestUrl": "https://todoist.com/app/manifest.json",
-      "icon": "https://todoist.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=todoist.com&sz=64",
       "tags": [
         "tasks",
         "todo",
@@ -929,7 +929,7 @@
       "website": "https://app.asana.com",
       "pwaUrl": "https://app.asana.com",
       "manifestUrl": "https://app.asana.com/manifest.json",
-      "icon": "https://asana.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.asana.com&sz=64",
       "tags": [
         "project",
         "tasks",
@@ -955,7 +955,7 @@
       "website": "https://monday.com",
       "pwaUrl": "https://monday.com",
       "manifestUrl": "https://monday.com/manifest.json",
-      "icon": "https://monday.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=monday.com&sz=64",
       "tags": [
         "project",
         "workflow",
@@ -981,7 +981,7 @@
       "website": "https://app.clickup.com",
       "pwaUrl": "https://app.clickup.com",
       "manifestUrl": "https://app.clickup.com/manifest.json",
-      "icon": "https://clickup.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.clickup.com&sz=64",
       "tags": [
         "project",
         "tasks",
@@ -1007,7 +1007,7 @@
       "website": "https://linear.app",
       "pwaUrl": "https://linear.app",
       "manifestUrl": "https://linear.app/manifest.json",
-      "icon": "https://linear.app/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=linear.app&sz=64",
       "tags": [
         "issues",
         "tracking",
@@ -1033,7 +1033,7 @@
       "website": "https://basecamp.com",
       "pwaUrl": "https://basecamp.com",
       "manifestUrl": "https://basecamp.com/manifest.json",
-      "icon": "https://basecamp.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=basecamp.com&sz=64",
       "tags": [
         "project",
         "management",
@@ -1058,7 +1058,7 @@
       "website": "https://www.wrike.com",
       "pwaUrl": "https://www.wrike.com",
       "manifestUrl": "https://www.wrike.com/manifest.json",
-      "icon": "https://www.wrike.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.wrike.com&sz=64",
       "tags": [
         "project",
         "management",
@@ -1083,7 +1083,7 @@
       "website": "https://airtable.com",
       "pwaUrl": "https://airtable.com",
       "manifestUrl": "https://airtable.com/manifest.json",
-      "icon": "https://airtable.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=airtable.com&sz=64",
       "tags": [
         "database",
         "spreadsheet",
@@ -1109,7 +1109,7 @@
       "website": "https://roamresearch.com",
       "pwaUrl": "https://roamresearch.com",
       "manifestUrl": "https://roamresearch.com/manifest.json",
-      "icon": "https://roamresearch.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=roamresearch.com&sz=64",
       "tags": [
         "notes",
         "knowledge",
@@ -1134,7 +1134,7 @@
       "website": "https://obsidian.md",
       "pwaUrl": "https://obsidian.md",
       "manifestUrl": "https://obsidian.md/manifest.json",
-      "icon": "https://obsidian.md/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=64",
       "tags": [
         "notes",
         "markdown",
@@ -1160,7 +1160,7 @@
       "website": "https://logseq.com",
       "pwaUrl": "https://logseq.com",
       "manifestUrl": "https://logseq.com/manifest.json",
-      "icon": "https://logseq.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=logseq.com&sz=64",
       "tags": [
         "notes",
         "outliner",
@@ -1185,7 +1185,7 @@
       "website": "https://anytype.io",
       "pwaUrl": "https://anytype.io",
       "manifestUrl": "https://anytype.io/manifest.json",
-      "icon": "https://anytype.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=anytype.io&sz=64",
       "tags": [
         "notes",
         "p2p",
@@ -1211,7 +1211,7 @@
       "website": "https://www.craft.do",
       "pwaUrl": "https://www.craft.do",
       "manifestUrl": "https://www.craft.do/manifest.json",
-      "icon": "https://www.craft.do/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.craft.do&sz=64",
       "tags": [
         "notes",
         "docs",
@@ -1237,7 +1237,7 @@
       "website": "https://ticktick.com",
       "pwaUrl": "https://ticktick.com",
       "manifestUrl": "https://ticktick.com/manifest.json",
-      "icon": "https://ticktick.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=ticktick.com&sz=64",
       "tags": [
         "tasks",
         "todo",
@@ -1263,7 +1263,7 @@
       "website": "https://to-do.office.com",
       "pwaUrl": "https://to-do.office.com",
       "manifestUrl": "https://to-do.office.com/manifest.json",
-      "icon": "https://to-do.office.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=to-do.office.com&sz=64",
       "tags": [
         "tasks",
         "todo",
@@ -1287,7 +1287,7 @@
       "website": "https://keep.google.com",
       "pwaUrl": "https://keep.google.com",
       "manifestUrl": "https://keep.google.com/manifest.json",
-      "icon": "https://fonts.gstatic.com/images/branding/product/1x/keep_2020q4_512dp.png",
+      "icon": "https://www.google.com/s2/favicons?domain=keep.google.com&sz=64",
       "tags": [
         "notes",
         "reminders",
@@ -1313,7 +1313,7 @@
       "website": "https://simplenote.com",
       "pwaUrl": "https://simplenote.com",
       "manifestUrl": "https://simplenote.com/manifest.json",
-      "icon": "https://simplenote.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=simplenote.com&sz=64",
       "tags": [
         "notes",
         "simple",
@@ -1339,7 +1339,7 @@
       "website": "https://app.standardnotes.org",
       "pwaUrl": "https://app.standardnotes.org",
       "manifestUrl": "https://app.standardnotes.org/manifest.json",
-      "icon": "https://app.standardnotes.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.standardnotes.org&sz=64",
       "tags": [
         "notes",
         "encrypted",
@@ -1365,7 +1365,7 @@
       "website": "https://joplinapp.org",
       "pwaUrl": "https://joplinapp.org",
       "manifestUrl": "https://joplinapp.org/manifest.json",
-      "icon": "https://joplinapp.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=joplinapp.org&sz=64",
       "tags": [
         "notes",
         "opensource",
@@ -1391,7 +1391,7 @@
       "website": "https://bear.app",
       "pwaUrl": "https://bear.app",
       "manifestUrl": "https://bear.app/manifest.json",
-      "icon": "https://bear.app/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=bear.app&sz=64",
       "tags": [
         "notes",
         "markdown",
@@ -1417,7 +1417,7 @@
       "website": "https://turtlapp.com",
       "pwaUrl": "https://turtlapp.com",
       "manifestUrl": "https://turtlapp.com/manifest.json",
-      "icon": "https://turtlapp.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=turtlapp.com&sz=64",
       "tags": [
         "notes",
         "security",
@@ -1443,7 +1443,7 @@
       "website": "https://www.inkdrop.app",
       "pwaUrl": "https://www.inkdrop.app",
       "manifestUrl": "https://www.inkdrop.app/manifest.json",
-      "icon": "https://www.inkdrop.app/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.inkdrop.app&sz=64",
       "tags": [
         "notes",
         "markdown",
@@ -1469,7 +1469,7 @@
       "website": "https://brettterpstra.com/projects/nvalt",
       "pwaUrl": "https://brettterpstra.com/projects/nvalt",
       "manifestUrl": "https://brettterpstra.com/projects/nvalt/manifest.json",
-      "icon": "https://brettterpstra.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=brettterpstra.com&sz=64",
       "tags": [
         "notes",
         "markdown",
@@ -1495,7 +1495,7 @@
       "website": "https://github.com",
       "pwaUrl": "https://github.com",
       "manifestUrl": "https://github.com/manifest.json",
-      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
       "tags": [
         "git",
         "code",
@@ -1521,7 +1521,7 @@
       "website": "https://gitlab.com",
       "pwaUrl": "https://gitlab.com",
       "manifestUrl": "https://gitlab.com/manifest.json",
-      "icon": "https://gitlab.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=gitlab.com&sz=64",
       "tags": [
         "git",
         "devops",
@@ -1548,7 +1548,7 @@
       "website": "https://bitbucket.org",
       "pwaUrl": "https://bitbucket.org",
       "manifestUrl": "https://bitbucket.org/manifest.json",
-      "icon": "https://bitbucket.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=bitbucket.org&sz=64",
       "tags": [
         "git",
         "code",
@@ -1573,7 +1573,7 @@
       "website": "https://stackoverflow.com",
       "pwaUrl": "https://stackoverflow.com",
       "manifestUrl": "https://stackoverflow.com/manifest.json",
-      "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=stackoverflow.com&sz=64",
       "tags": [
         "q&a",
         "questions",
@@ -1599,7 +1599,7 @@
       "website": "https://codepen.io",
       "pwaUrl": "https://codepen.io",
       "manifestUrl": "https://codepen.io/manifest.json",
-      "icon": "https://cpwebassets.codepen.io/assets/favicon/favicon2.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=codepen.io&sz=64",
       "tags": [
         "code",
         "editor",
@@ -1627,7 +1627,7 @@
       "website": "https://jsfiddle.net",
       "pwaUrl": "https://jsfiddle.net",
       "manifestUrl": "https://jsfiddle.net/manifest.json",
-      "icon": "https://jsfiddle.net/favicon.png",
+      "icon": "https://www.google.com/s2/favicons?domain=jsfiddle.net&sz=64",
       "tags": [
         "code",
         "editor",
@@ -1654,7 +1654,7 @@
       "website": "https://replit.com",
       "pwaUrl": "https://replit.com",
       "manifestUrl": "https://replit.com/manifest.json",
-      "icon": "https://replit.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=replit.com&sz=64",
       "tags": [
         "ide",
         "code",
@@ -1680,7 +1680,7 @@
       "website": "https://codesandbox.io",
       "pwaUrl": "https://codesandbox.io",
       "manifestUrl": "https://codesandbox.io/manifest.json",
-      "icon": "https://codesandbox.io/favicon.png",
+      "icon": "https://www.google.com/s2/favicons?domain=codesandbox.io&sz=64",
       "tags": [
         "ide",
         "code",
@@ -1706,7 +1706,7 @@
       "website": "https://stackblitz.com",
       "pwaUrl": "https://stackblitz.com",
       "manifestUrl": "https://stackblitz.com/manifest.json",
-      "icon": "https://stackblitz.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=stackblitz.com&sz=64",
       "tags": [
         "ide",
         "code",
@@ -1732,7 +1732,7 @@
       "website": "https://vscode.dev",
       "pwaUrl": "https://vscode.dev",
       "manifestUrl": "https://vscode.dev/manifest.json",
-      "icon": "https://code.visualstudio.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=vscode.dev&sz=64",
       "tags": [
         "vscode",
         "ide",
@@ -1758,7 +1758,7 @@
       "website": "https://gitpod.io",
       "pwaUrl": "https://gitpod.io",
       "manifestUrl": "https://gitpod.io/manifest.json",
-      "icon": "https://gitpod.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=gitpod.io&sz=64",
       "tags": [
         "ide",
         "git",
@@ -1784,7 +1784,7 @@
       "website": "https://glitch.com",
       "pwaUrl": "https://glitch.com",
       "manifestUrl": "https://glitch.com/manifest.json",
-      "icon": "https://glitch.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=glitch.com&sz=64",
       "tags": [
         "ide",
         "remix",
@@ -1810,7 +1810,7 @@
       "website": "https://vercel.com",
       "pwaUrl": "https://vercel.com",
       "manifestUrl": "https://vercel.com/manifest.json",
-      "icon": "https://vercel.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=vercel.com&sz=64",
       "tags": [
         "deploy",
         "hosting",
@@ -1836,7 +1836,7 @@
       "website": "https://app.netlify.com",
       "pwaUrl": "https://app.netlify.com",
       "manifestUrl": "https://app.netlify.com/manifest.json",
-      "icon": "https://www.netlify.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.netlify.com&sz=64",
       "tags": [
         "hosting",
         "deploy",
@@ -1862,7 +1862,7 @@
       "website": "https://www.figma.com/app",
       "pwaUrl": "https://www.figma.com/app",
       "manifestUrl": "https://www.figma.com/app/manifest.json",
-      "icon": "https://static.figma.com/app/icon/1/favicon.png",
+      "icon": "https://www.google.com/s2/favicons?domain=www.figma.com&sz=64",
       "tags": [
         "design",
         "ui",
@@ -1888,7 +1888,7 @@
       "website": "https://app.zeplin.io",
       "pwaUrl": "https://app.zeplin.io",
       "manifestUrl": "https://app.zeplin.io/manifest.json",
-      "icon": "https://app.zeplin.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.zeplin.io&sz=64",
       "tags": [
         "design",
         "collaboration",
@@ -1913,7 +1913,7 @@
       "website": "https://www.invisionapp.com",
       "pwaUrl": "https://www.invisionapp.com",
       "manifestUrl": "https://www.invisionapp.com/manifest.json",
-      "icon": "https://www.invisionapp.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.invisionapp.com&sz=64",
       "tags": [
         "design",
         "prototype",
@@ -1938,7 +1938,7 @@
       "website": "https://console.aws.amazon.com",
       "pwaUrl": "https://console.aws.amazon.com",
       "manifestUrl": "https://console.aws.amazon.com/manifest.json",
-      "icon": "https://aws.amazon.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=console.aws.amazon.com&sz=64",
       "tags": [
         "aws",
         "cloud",
@@ -1964,7 +1964,7 @@
       "website": "https://cloud.digitalocean.com",
       "pwaUrl": "https://cloud.digitalocean.com",
       "manifestUrl": "https://cloud.digitalocean.com/manifest.json",
-      "icon": "https://www.digitalocean.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=cloud.digitalocean.com&sz=64",
       "tags": [
         "cloud",
         "hosting",
@@ -1990,7 +1990,7 @@
       "website": "https://dashboard.heroku.com",
       "pwaUrl": "https://dashboard.heroku.com",
       "manifestUrl": "https://dashboard.heroku.com/manifest.json",
-      "icon": "https://www.heroku.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=dashboard.heroku.com&sz=64",
       "tags": [
         "cloud",
         "platform",
@@ -2016,7 +2016,7 @@
       "website": "https://docs.google.com",
       "pwaUrl": "https://docs.google.com",
       "manifestUrl": "https://docs.google.com/manifest.json",
-      "icon": "https://ssl.gstatic.com/docs/doclist/ic_google_doc_16.png",
+      "icon": "https://www.google.com/s2/favicons?domain=docs.google.com&sz=64",
       "tags": [
         "docs",
         "word",
@@ -2041,7 +2041,7 @@
       "website": "https://sheets.google.com",
       "pwaUrl": "https://sheets.google.com",
       "manifestUrl": "https://sheets.google.com/manifest.json",
-      "icon": "https://ssl.gstatic.com/docs/doclist/ic_google_sheets_16.png",
+      "icon": "https://www.google.com/s2/favicons?domain=sheets.google.com&sz=64",
       "tags": [
         "spreadsheet",
         "excel",
@@ -2066,7 +2066,7 @@
       "website": "https://slides.google.com",
       "pwaUrl": "https://slides.google.com",
       "manifestUrl": "https://slides.google.com/manifest.json",
-      "icon": "https://ssl.gstatic.com/docs/doclist/ic_google_slides_16.png",
+      "icon": "https://www.google.com/s2/favicons?domain=slides.google.com&sz=64",
       "tags": [
         "slides",
         "presentation",
@@ -2090,7 +2090,7 @@
       "website": "https://forms.google.com",
       "pwaUrl": "https://forms.google.com",
       "manifestUrl": "https://forms.google.com/manifest.json",
-      "icon": "https://ssl.gstatic.com/docs/doclist/ic_google_forms_16.png",
+      "icon": "https://www.google.com/s2/favicons?domain=forms.google.com&sz=64",
       "tags": [
         "forms",
         "survey",
@@ -2115,7 +2115,7 @@
       "website": "https://drive.google.com",
       "pwaUrl": "https://drive.google.com",
       "manifestUrl": "https://drive.google.com/manifest.json",
-      "icon": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_512dp.png",
+      "icon": "https://www.google.com/s2/favicons?domain=drive.google.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -2140,7 +2140,7 @@
       "website": "https://office.com",
       "pwaUrl": "https://office.com",
       "manifestUrl": "https://office.com/manifest.json",
-      "icon": "https://www.office.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
       "tags": [
         "word",
         "office",
@@ -2165,7 +2165,7 @@
       "website": "https://office.com",
       "pwaUrl": "https://office.com",
       "manifestUrl": "https://office.com/manifest.json",
-      "icon": "https://www.office.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
       "tags": [
         "excel",
         "spreadsheet",
@@ -2190,7 +2190,7 @@
       "website": "https://office.com",
       "pwaUrl": "https://office.com",
       "manifestUrl": "https://office.com/manifest.json",
-      "icon": "https://www.office.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
       "tags": [
         "powerpoint",
         "slides",
@@ -2215,7 +2215,7 @@
       "website": "https://paper.dropbox.com",
       "pwaUrl": "https://paper.dropbox.com",
       "manifestUrl": "https://paper.dropbox.com/manifest.json",
-      "icon": "https://dropbox.com/static/images/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=paper.dropbox.com&sz=64",
       "tags": [
         "docs",
         "collaboration",
@@ -2239,7 +2239,7 @@
       "website": "https://www.zoho.com/docs",
       "pwaUrl": "https://www.zoho.com/docs",
       "manifestUrl": "https://www.zoho.com/docs/manifest.json",
-      "icon": "https://www.zoho.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.zoho.com&sz=64",
       "tags": [
         "docs",
         "office",
@@ -2264,7 +2264,7 @@
       "website": "https://www.onlyoffice.com",
       "pwaUrl": "https://www.onlyoffice.com",
       "manifestUrl": "https://www.onlyoffice.com/manifest.json",
-      "icon": "https://www.onlyoffice.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.onlyoffice.com&sz=64",
       "tags": [
         "office",
         "docs",
@@ -2288,7 +2288,7 @@
       "website": "https://hackmd.io",
       "pwaUrl": "https://hackmd.io",
       "manifestUrl": "https://hackmd.io/manifest.json",
-      "icon": "https://hackmd.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=hackmd.io&sz=64",
       "tags": [
         "markdown",
         "editor",
@@ -2313,7 +2313,7 @@
       "website": "https://stackedit.io",
       "pwaUrl": "https://stackedit.io",
       "manifestUrl": "https://stackedit.io/manifest.json",
-      "icon": "https://stackedit.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=stackedit.io&sz=64",
       "tags": [
         "markdown",
         "editor",
@@ -2337,7 +2337,7 @@
       "website": "https://www.dropbox.com",
       "pwaUrl": "https://www.dropbox.com",
       "manifestUrl": "https://www.dropbox.com/manifest.json",
-      "icon": "https://dropbox.com/static/images/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.dropbox.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -2362,7 +2362,7 @@
       "website": "https://onedrive.live.com",
       "pwaUrl": "https://onedrive.live.com",
       "manifestUrl": "https://onedrive.live.com/manifest.json",
-      "icon": "https://onedrive.live.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=onedrive.live.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -2387,7 +2387,7 @@
       "website": "https://www.icloud.com",
       "pwaUrl": "https://www.icloud.com",
       "manifestUrl": "https://www.icloud.com/manifest.json",
-      "icon": "https://www.icloud.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.icloud.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -2412,7 +2412,7 @@
       "website": "https://www.box.com",
       "pwaUrl": "https://www.box.com",
       "manifestUrl": "https://www.box.com/manifest.json",
-      "icon": "https://www.box.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.box.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -2437,7 +2437,7 @@
       "website": "https://quip.com",
       "pwaUrl": "https://quip.com",
       "manifestUrl": "https://quip.com/manifest.json",
-      "icon": "https://quip.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=quip.com&sz=64",
       "tags": [
         "docs",
         "collaboration",
@@ -2462,7 +2462,7 @@
       "website": "https://ethercalc.net",
       "pwaUrl": "https://ethercalc.net",
       "manifestUrl": "https://ethercalc.net/manifest.json",
-      "icon": "https://ethercalc.net/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=ethercalc.net&sz=64",
       "tags": [
         "spreadsheet",
         "realtime",
@@ -2486,7 +2486,7 @@
       "website": "https://calendar.google.com",
       "pwaUrl": "https://calendar.google.com",
       "manifestUrl": "https://calendar.google.com/manifest.json",
-      "icon": "https://calendar.google.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=calendar.google.com&sz=64",
       "tags": [
         "calendar",
         "schedule",
@@ -2511,7 +2511,7 @@
       "website": "https://x.com",
       "pwaUrl": "https://x.com",
       "manifestUrl": "https://x.com/manifest.json",
-      "icon": "https://x.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=x.com&sz=64",
       "tags": [
         "social",
         "tweets",
@@ -2536,7 +2536,7 @@
       "website": "https://www.threads.net",
       "pwaUrl": "https://www.threads.net",
       "manifestUrl": "https://www.threads.net/manifest.json",
-      "icon": "https://www.threads.net/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.threads.net&sz=64",
       "tags": [
         "social",
         "instagram",
@@ -2561,7 +2561,7 @@
       "website": "https://www.facebook.com",
       "pwaUrl": "https://www.facebook.com",
       "manifestUrl": "https://www.facebook.com/manifest.json",
-      "icon": "https://www.facebook.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64",
       "tags": [
         "social",
         "network",
@@ -2586,7 +2586,7 @@
       "website": "https://www.instagram.com",
       "pwaUrl": "https://www.instagram.com",
       "manifestUrl": "https://www.instagram.com/manifest.json",
-      "icon": "https://www.instagram.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=64",
       "tags": [
         "social",
         "photos",
@@ -2611,7 +2611,7 @@
       "website": "https://www.reddit.com",
       "pwaUrl": "https://www.reddit.com",
       "manifestUrl": "https://www.reddit.com/manifest.json",
-      "icon": "https://www.reddit.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.reddit.com&sz=64",
       "tags": [
         "social",
         "news",
@@ -2637,7 +2637,7 @@
       "website": "https://www.linkedin.com",
       "pwaUrl": "https://www.linkedin.com",
       "manifestUrl": "https://www.linkedin.com/manifest.json",
-      "icon": "https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64",
       "tags": [
         "social",
         "professional",
@@ -2663,7 +2663,7 @@
       "website": "https://www.pinterest.com",
       "pwaUrl": "https://www.pinterest.com",
       "manifestUrl": "https://www.pinterest.com/manifest.json",
-      "icon": "https://www.pinterest.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.pinterest.com&sz=64",
       "tags": [
         "social",
         "images",
@@ -2689,7 +2689,7 @@
       "website": "https://www.tiktok.com",
       "pwaUrl": "https://www.tiktok.com",
       "manifestUrl": "https://www.tiktok.com/manifest.json",
-      "icon": "https://www.tiktok.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.tiktok.com&sz=64",
       "tags": [
         "video",
         "social",
@@ -2714,7 +2714,7 @@
       "website": "https://bsky.app",
       "pwaUrl": "https://bsky.app",
       "manifestUrl": "https://bsky.app/manifest.json",
-      "icon": "https://bsky.app/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=bsky.app&sz=64",
       "tags": [
         "social",
         "decentralized",
@@ -2740,7 +2740,7 @@
       "website": "https://mastodon.social",
       "pwaUrl": "https://mastodon.social",
       "manifestUrl": "https://mastodon.social/manifest.json",
-      "icon": "https://mastodon.social/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=mastodon.social&sz=64",
       "tags": [
         "social",
         "opensource",
@@ -2766,7 +2766,7 @@
       "website": "https://web.snapchat.com",
       "pwaUrl": "https://web.snapchat.com",
       "manifestUrl": "https://web.snapchat.com/manifest.json",
-      "icon": "https://snap.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=web.snapchat.com&sz=64",
       "tags": [
         "chat",
         "media",
@@ -2791,7 +2791,7 @@
       "website": "https://www.tumblr.com",
       "pwaUrl": "https://www.tumblr.com",
       "manifestUrl": "https://www.tumblr.com/manifest.json",
-      "icon": "https://www.tumblr.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.tumblr.com&sz=64",
       "tags": [
         "blog",
         "social",
@@ -2816,7 +2816,7 @@
       "website": "https://youtube.com",
       "pwaUrl": "https://youtube.com",
       "manifestUrl": "https://youtube.com/manifest.json",
-      "icon": "https://www.youtube.com/s/desktop/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=64",
       "tags": [
         "video",
         "watch",
@@ -2841,7 +2841,7 @@
       "website": "https://music.youtube.com",
       "pwaUrl": "https://music.youtube.com",
       "manifestUrl": "https://music.youtube.com/manifest.json",
-      "icon": "https://music.youtube.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=music.youtube.com&sz=64",
       "tags": [
         "music",
         "youtube",
@@ -2866,7 +2866,7 @@
       "website": "https://vimeo.com",
       "pwaUrl": "https://vimeo.com",
       "manifestUrl": "https://vimeo.com/manifest.json",
-      "icon": "https://vimeo.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=vimeo.com&sz=64",
       "tags": [
         "video",
         "creator",
@@ -2891,7 +2891,7 @@
       "website": "https://www.dailymotion.com",
       "pwaUrl": "https://www.dailymotion.com",
       "manifestUrl": "https://www.dailymotion.com/manifest.json",
-      "icon": "https://www.dailymotion.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=64",
       "tags": [
         "video",
         "streaming",
@@ -2916,7 +2916,7 @@
       "website": "https://www.twitch.tv",
       "pwaUrl": "https://www.twitch.tv",
       "manifestUrl": "https://www.twitch.tv/manifest.json",
-      "icon": "https://www.twitch.tv/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.twitch.tv&sz=64",
       "tags": [
         "streaming",
         "gaming",
@@ -2941,7 +2941,7 @@
       "website": "https://watch.metastream.dev",
       "pwaUrl": "https://watch.metastream.dev",
       "manifestUrl": "https://watch.metastream.dev/manifest.json",
-      "icon": "https://watch.metastream.dev/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=watch.metastream.dev&sz=64",
       "tags": [
         "video",
         "watch",
@@ -2966,7 +2966,7 @@
       "website": "https://joinpeertube.org",
       "pwaUrl": "https://joinpeertube.org",
       "manifestUrl": "https://joinpeertube.org/manifest.json",
-      "icon": "https://joinpeertube.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=joinpeertube.org&sz=64",
       "tags": [
         "video",
         "decentralized",
@@ -2992,7 +2992,7 @@
       "website": "https://www.bitchute.com",
       "pwaUrl": "https://www.bitchute.com",
       "manifestUrl": "https://www.bitchute.com/manifest.json",
-      "icon": "https://www.bitchute.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.bitchute.com&sz=64",
       "tags": [
         "video",
         "hosting",
@@ -3018,7 +3018,7 @@
       "website": "https://odysee.com",
       "pwaUrl": "https://odysee.com",
       "manifestUrl": "https://odysee.com/manifest.json",
-      "icon": "https://odysee.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=odysee.com&sz=64",
       "tags": [
         "video",
         "lbry",
@@ -3044,7 +3044,7 @@
       "website": "https://www.veoh.com",
       "pwaUrl": "https://www.veoh.com",
       "manifestUrl": "https://www.veoh.com/manifest.json",
-      "icon": "https://www.veoh.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.veoh.com&sz=64",
       "tags": [
         "video",
         "hosting",
@@ -3069,7 +3069,7 @@
       "website": "https://open.spotify.com",
       "pwaUrl": "https://open.spotify.com",
       "manifestUrl": "https://open.spotify.com/manifest.json",
-      "icon": "https://open.spotifycdn.com/images/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=open.spotify.com&sz=64",
       "tags": [
         "music",
         "streaming",
@@ -3094,7 +3094,7 @@
       "website": "https://soundcloud.com",
       "pwaUrl": "https://soundcloud.com",
       "manifestUrl": "https://soundcloud.com/manifest.json",
-      "icon": "https://soundcloud.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=soundcloud.com&sz=64",
       "tags": [
         "music",
         "audio",
@@ -3119,7 +3119,7 @@
       "website": "https://www.deezer.com",
       "pwaUrl": "https://www.deezer.com",
       "manifestUrl": "https://www.deezer.com/manifest.json",
-      "icon": "https://www.deezer.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.deezer.com&sz=64",
       "tags": [
         "music",
         "streaming",
@@ -3144,7 +3144,7 @@
       "website": "https://tidal.com",
       "pwaUrl": "https://tidal.com",
       "manifestUrl": "https://tidal.com/manifest.json",
-      "icon": "https://tidal.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=tidal.com&sz=64",
       "tags": [
         "music",
         "hifi",
@@ -3169,7 +3169,7 @@
       "website": "https://www.pandora.com",
       "pwaUrl": "https://www.pandora.com",
       "manifestUrl": "https://www.pandora.com/manifest.json",
-      "icon": "https://www.pandora.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.pandora.com&sz=64",
       "tags": [
         "music",
         "radio",
@@ -3194,7 +3194,7 @@
       "website": "https://music.apple.com",
       "pwaUrl": "https://music.apple.com",
       "manifestUrl": "https://music.apple.com/manifest.json",
-      "icon": "https://music.apple.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=music.apple.com&sz=64",
       "tags": [
         "music",
         "apple",
@@ -3219,7 +3219,7 @@
       "website": "https://audiomack.com",
       "pwaUrl": "https://audiomack.com",
       "manifestUrl": "https://audiomack.com/manifest.json",
-      "icon": "https://audiomack.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=audiomack.com&sz=64",
       "tags": [
         "music",
         "streaming",
@@ -3244,7 +3244,7 @@
       "website": "https://gaana.com",
       "pwaUrl": "https://gaana.com",
       "manifestUrl": "https://gaana.com/manifest.json",
-      "icon": "https://gaana.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=gaana.com&sz=64",
       "tags": [
         "music",
         "india",
@@ -3270,7 +3270,7 @@
       "website": "https://www.wynk.in",
       "pwaUrl": "https://www.wynk.in",
       "manifestUrl": "https://www.wynk.in/manifest.json",
-      "icon": "https://www.wynk.in/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.wynk.in&sz=64",
       "tags": [
         "music",
         "india",
@@ -3295,7 +3295,7 @@
       "website": "https://musifyapp.com",
       "pwaUrl": "https://musifyapp.com",
       "manifestUrl": "https://musifyapp.com/manifest.json",
-      "icon": "https://musifyapp.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=musifyapp.com&sz=64",
       "tags": [
         "music",
         "streaming",
@@ -3320,7 +3320,7 @@
       "website": "https://www.netflix.com",
       "pwaUrl": "https://www.netflix.com",
       "manifestUrl": "https://www.netflix.com/manifest.json",
-      "icon": "https://www.netflix.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.netflix.com&sz=64",
       "tags": [
         "movies",
         "tv",
@@ -3345,7 +3345,7 @@
       "website": "https://www.hulu.com",
       "pwaUrl": "https://www.hulu.com",
       "manifestUrl": "https://www.hulu.com/manifest.json",
-      "icon": "https://www.hulu.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.hulu.com&sz=64",
       "tags": [
         "streaming",
         "tv",
@@ -3370,7 +3370,7 @@
       "website": "https://www.disneyplus.com",
       "pwaUrl": "https://www.disneyplus.com",
       "manifestUrl": "https://www.disneyplus.com/manifest.json",
-      "icon": "https://www.disneyplus.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.disneyplus.com&sz=64",
       "tags": [
         "streaming",
         "disney",
@@ -3395,7 +3395,7 @@
       "website": "https://www.max.com",
       "pwaUrl": "https://www.max.com",
       "manifestUrl": "https://www.max.com/manifest.json",
-      "icon": "https://www.max.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.max.com&sz=64",
       "tags": [
         "streaming",
         "hbo",
@@ -3420,7 +3420,7 @@
       "website": "https://www.primevideo.com",
       "pwaUrl": "https://www.primevideo.com",
       "manifestUrl": "https://www.primevideo.com/manifest.json",
-      "icon": "https://www.primevideo.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.primevideo.com&sz=64",
       "tags": [
         "streaming",
         "amazon",
@@ -3445,7 +3445,7 @@
       "website": "https://www.peacocktv.com",
       "pwaUrl": "https://www.peacocktv.com",
       "manifestUrl": "https://www.peacocktv.com/manifest.json",
-      "icon": "https://www.peacocktv.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.peacocktv.com&sz=64",
       "tags": [
         "streaming",
         "nbc",
@@ -3470,7 +3470,7 @@
       "website": "https://www.paramountplus.com",
       "pwaUrl": "https://www.paramountplus.com",
       "manifestUrl": "https://www.paramountplus.com/manifest.json",
-      "icon": "https://www.paramountplus.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.paramountplus.com&sz=64",
       "tags": [
         "streaming",
         "cbs",
@@ -3495,7 +3495,7 @@
       "website": "https://www.crunchyroll.com",
       "pwaUrl": "https://www.crunchyroll.com",
       "manifestUrl": "https://www.crunchyroll.com/manifest.json",
-      "icon": "https://www.crunchyroll.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.crunchyroll.com&sz=64",
       "tags": [
         "anime",
         "streaming",
@@ -3520,7 +3520,7 @@
       "website": "https://www.funimation.com",
       "pwaUrl": "https://www.funimation.com",
       "manifestUrl": "https://www.funimation.com/manifest.json",
-      "icon": "https://www.funimation.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.funimation.com&sz=64",
       "tags": [
         "anime",
         "streaming",
@@ -3545,7 +3545,7 @@
       "website": "https://www.shudder.com",
       "pwaUrl": "https://www.shudder.com",
       "manifestUrl": "https://www.shudder.com/manifest.json",
-      "icon": "https://www.shudder.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.shudder.com&sz=64",
       "tags": [
         "horror",
         "streaming",
@@ -3570,7 +3570,7 @@
       "website": "https://www.discoveryplus.com",
       "pwaUrl": "https://www.discoveryplus.com",
       "manifestUrl": "https://www.discoveryplus.com/manifest.json",
-      "icon": "https://www.discoveryplus.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.discoveryplus.com&sz=64",
       "tags": [
         "streaming",
         "discovery",
@@ -3595,7 +3595,7 @@
       "website": "https://www.directvstream.com",
       "pwaUrl": "https://www.directvstream.com",
       "manifestUrl": "https://www.directvstream.com/manifest.json",
-      "icon": "https://www.directvstream.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.directvstream.com&sz=64",
       "tags": [
         "streaming",
         "live",
@@ -3620,7 +3620,7 @@
       "website": "https://www.amazon.com",
       "pwaUrl": "https://www.amazon.com",
       "manifestUrl": "https://www.amazon.com/manifest.json",
-      "icon": "https://www.amazon.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.amazon.com&sz=64",
       "tags": [
         "shopping",
         "store",
@@ -3645,7 +3645,7 @@
       "website": "https://www.ebay.com",
       "pwaUrl": "https://www.ebay.com",
       "manifestUrl": "https://www.ebay.com/manifest.json",
-      "icon": "https://www.ebay.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.ebay.com&sz=64",
       "tags": [
         "shopping",
         "auction",
@@ -3670,7 +3670,7 @@
       "website": "https://www.etsy.com",
       "pwaUrl": "https://www.etsy.com",
       "manifestUrl": "https://www.etsy.com/manifest.json",
-      "icon": "https://www.etsy.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.etsy.com&sz=64",
       "tags": [
         "shopping",
         "handmade",
@@ -3695,7 +3695,7 @@
       "website": "https://www.aliexpress.com",
       "pwaUrl": "https://www.aliexpress.com",
       "manifestUrl": "https://www.aliexpress.com/manifest.json",
-      "icon": "https://aliexpress.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.aliexpress.com&sz=64",
       "tags": [
         "shopping",
         "chinese",
@@ -3720,7 +3720,7 @@
       "website": "https://www.shopify.com",
       "pwaUrl": "https://www.shopify.com",
       "manifestUrl": "https://www.shopify.com/manifest.json",
-      "icon": "https://www.shopify.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.shopify.com&sz=64",
       "tags": [
         "ecommerce",
         "shopping",
@@ -3745,7 +3745,7 @@
       "website": "https://shopee.co.id",
       "pwaUrl": "https://shopee.co.id",
       "manifestUrl": "https://shopee.co.id/manifest.json",
-      "icon": "https://shopee.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=shopee.co.id&sz=64",
       "tags": [
         "shopping",
         "ecommerce",
@@ -3770,7 +3770,7 @@
       "website": "https://www.tokopedia.com",
       "pwaUrl": "https://www.tokopedia.com",
       "manifestUrl": "https://www.tokopedia.com/manifest.json",
-      "icon": "https://www.tokopedia.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.tokopedia.com&sz=64",
       "tags": [
         "shopping",
         "marketplace",
@@ -3795,7 +3795,7 @@
       "website": "https://www.bukalapak.com",
       "pwaUrl": "https://www.bukalapak.com",
       "manifestUrl": "https://www.bukalapak.com/manifest.json",
-      "icon": "https://www.bukalapak.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.bukalapak.com&sz=64",
       "tags": [
         "shopping",
         "marketplace",
@@ -3820,7 +3820,7 @@
       "website": "https://www.lazada.com",
       "pwaUrl": "https://www.lazada.com",
       "manifestUrl": "https://www.lazada.com/manifest.json",
-      "icon": "https://www.lazada.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.lazada.com&sz=64",
       "tags": [
         "shopping",
         "ecommerce",
@@ -3845,7 +3845,7 @@
       "website": "https://shop.tiktok.com",
       "pwaUrl": "https://shop.tiktok.com",
       "manifestUrl": "https://shop.tiktok.com/manifest.json",
-      "icon": "https://shop.tiktok.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=shop.tiktok.com&sz=64",
       "tags": [
         "shopping",
         "tiktok",
@@ -3870,7 +3870,7 @@
       "website": "https://allegro.pl",
       "pwaUrl": "https://allegro.pl",
       "manifestUrl": "https://allegro.pl/manifest.json",
-      "icon": "https://allegro.pl/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=allegro.pl&sz=64",
       "tags": [
         "shopping",
         "poland",
@@ -3895,7 +3895,7 @@
       "website": "https://www.mercadolibre.com",
       "pwaUrl": "https://www.mercadolibre.com",
       "manifestUrl": "https://www.mercadolibre.com/manifest.json",
-      "icon": "https://mercadolibre.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.mercadolibre.com&sz=64",
       "tags": [
         "shopping",
         "latam",
@@ -3920,7 +3920,7 @@
       "website": "https://www.rakuten.co.jp",
       "pwaUrl": "https://www.rakuten.co.jp",
       "manifestUrl": "https://www.rakuten.co.jp/manifest.json",
-      "icon": "https://www.rakuten.co.jp/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.rakuten.co.jp&sz=64",
       "tags": [
         "shopping",
         "japan",
@@ -3945,7 +3945,7 @@
       "website": "https://www.walmart.com",
       "pwaUrl": "https://www.walmart.com",
       "manifestUrl": "https://www.walmart.com/manifest.json",
-      "icon": "https://www.walmart.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.walmart.com&sz=64",
       "tags": [
         "shopping",
         "retail",
@@ -3970,7 +3970,7 @@
       "website": "https://www.target.com",
       "pwaUrl": "https://www.target.com",
       "manifestUrl": "https://www.target.com/manifest.json",
-      "icon": "https://www.target.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.target.com&sz=64",
       "tags": [
         "shopping",
         "retail",
@@ -3994,7 +3994,7 @@
       "website": "https://www.paypal.com/myaccount/wallet",
       "pwaUrl": "https://www.paypal.com/myaccount/wallet",
       "manifestUrl": "https://www.paypal.com/myaccount/wallet/manifest.json",
-      "icon": "https://www.paypalobjects.com/webstatic/icon/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.paypal.com&sz=64",
       "tags": [
         "payments",
         "money",
@@ -4019,7 +4019,7 @@
       "website": "https://wise.com/account",
       "pwaUrl": "https://wise.com/account",
       "manifestUrl": "https://wise.com/account/manifest.json",
-      "icon": "https://wise.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=wise.com&sz=64",
       "tags": [
         "money",
         "transfer",
@@ -4044,7 +4044,7 @@
       "website": "https://dashboard.stripe.com",
       "pwaUrl": "https://dashboard.stripe.com",
       "manifestUrl": "https://dashboard.stripe.com/manifest.json",
-      "icon": "https://stripe.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=dashboard.stripe.com&sz=64",
       "tags": [
         "payments",
         "stripe",
@@ -4069,7 +4069,7 @@
       "website": "https://www.coinbase.com",
       "pwaUrl": "https://www.coinbase.com",
       "manifestUrl": "https://www.coinbase.com/manifest.json",
-      "icon": "https://www.coinbase.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.coinbase.com&sz=64",
       "tags": [
         "crypto",
         "bitcoin",
@@ -4094,7 +4094,7 @@
       "website": "https://www.binance.com",
       "pwaUrl": "https://www.binance.com",
       "manifestUrl": "https://www.binance.com/manifest.json",
-      "icon": "https://www.binance.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.binance.com&sz=64",
       "tags": [
         "crypto",
         "exchange",
@@ -4119,7 +4119,7 @@
       "website": "https://www.kraken.com",
       "pwaUrl": "https://www.kraken.com",
       "manifestUrl": "https://www.kraken.com/manifest.json",
-      "icon": "https://www.kraken.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.kraken.com&sz=64",
       "tags": [
         "crypto",
         "exchange",
@@ -4144,7 +4144,7 @@
       "website": "https://robinhood.com",
       "pwaUrl": "https://robinhood.com",
       "manifestUrl": "https://robinhood.com/manifest.json",
-      "icon": "https://robinhood.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=robinhood.com&sz=64",
       "tags": [
         "stocks",
         "trading",
@@ -4169,7 +4169,7 @@
       "website": "https://cash.app",
       "pwaUrl": "https://cash.app",
       "manifestUrl": "https://cash.app/manifest.json",
-      "icon": "https://cash.app/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=cash.app&sz=64",
       "tags": [
         "money",
         "payments",
@@ -4194,7 +4194,7 @@
       "website": "https://venmo.com",
       "pwaUrl": "https://venmo.com",
       "manifestUrl": "https://venmo.com/manifest.json",
-      "icon": "https://venmo.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=venmo.com&sz=64",
       "tags": [
         "money",
         "transfer",
@@ -4219,7 +4219,7 @@
       "website": "https://www.revolut.com",
       "pwaUrl": "https://www.revolut.com",
       "manifestUrl": "https://www.revolut.com/manifest.json",
-      "icon": "https://www.revolut.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.revolut.com&sz=64",
       "tags": [
         "banking",
         "money",
@@ -4244,7 +4244,7 @@
       "website": "https://app.nubank.com.br",
       "pwaUrl": "https://app.nubank.com.br",
       "manifestUrl": "https://app.nubank.com.br/manifest.json",
-      "icon": "https://app.nubank.com.br/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.nubank.com.br&sz=64",
       "tags": [
         "banking",
         "digital",
@@ -4269,7 +4269,7 @@
       "website": "https://www.webull.com",
       "pwaUrl": "https://www.webull.com",
       "manifestUrl": "https://www.webull.com/manifest.json",
-      "icon": "https://www.webull.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.webull.com&sz=64",
       "tags": [
         "stocks",
         "trading",
@@ -4294,7 +4294,7 @@
       "website": "https://www.tradingview.com",
       "pwaUrl": "https://www.tradingview.com",
       "manifestUrl": "https://www.tradingview.com/manifest.json",
-      "icon": "https://www.tradingview.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.tradingview.com&sz=64",
       "tags": [
         "stocks",
         "charts",
@@ -4320,7 +4320,7 @@
       "website": "https://www.chase.com",
       "pwaUrl": "https://www.chase.com",
       "manifestUrl": "https://www.chase.com/manifest.json",
-      "icon": "https://www.chase.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.chase.com&sz=64",
       "tags": [
         "banking",
         "chase",
@@ -4345,7 +4345,7 @@
       "website": "https://www.wellsfargo.com",
       "pwaUrl": "https://www.wellsfargo.com",
       "manifestUrl": "https://www.wellsfargo.com/manifest.json",
-      "icon": "https://www.wellsfargo.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.wellsfargo.com&sz=64",
       "tags": [
         "banking",
         "wellsfargo",
@@ -4370,7 +4370,7 @@
       "website": "https://www.duolingo.com",
       "pwaUrl": "https://www.duolingo.com",
       "manifestUrl": "https://www.duolingo.com/manifest.json",
-      "icon": "https://d35aaqx5ub95lt.cloudfront.net/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.duolingo.com&sz=64",
       "tags": [
         "language",
         "learning",
@@ -4395,7 +4395,7 @@
       "website": "https://www.khanacademy.org",
       "pwaUrl": "https://www.khanacademy.org",
       "manifestUrl": "https://www.khanacademy.org/manifest.json",
-      "icon": "https://cdn.kastatic.org/images/apple-touch-icon-180x180.png",
+      "icon": "https://www.google.com/s2/favicons?domain=www.khanacademy.org&sz=64",
       "tags": [
         "education",
         "courses",
@@ -4420,7 +4420,7 @@
       "website": "https://www.coursera.org",
       "pwaUrl": "https://www.coursera.org",
       "manifestUrl": "https://www.coursera.org/manifest.json",
-      "icon": "https://www.coursera.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.coursera.org&sz=64",
       "tags": [
         "education",
         "courses",
@@ -4445,7 +4445,7 @@
       "website": "https://www.udemy.com",
       "pwaUrl": "https://www.udemy.com",
       "manifestUrl": "https://www.udemy.com/manifest.json",
-      "icon": "https://www.udemy.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.udemy.com&sz=64",
       "tags": [
         "education",
         "courses",
@@ -4470,7 +4470,7 @@
       "website": "https://www.edx.org",
       "pwaUrl": "https://www.edx.org",
       "manifestUrl": "https://www.edx.org/manifest.json",
-      "icon": "https://www.edx.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.edx.org&sz=64",
       "tags": [
         "education",
         "courses",
@@ -4495,7 +4495,7 @@
       "website": "https://www.skillshare.com",
       "pwaUrl": "https://www.skillshare.com",
       "manifestUrl": "https://www.skillshare.com/manifest.json",
-      "icon": "https://www.skillshare.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.skillshare.com&sz=64",
       "tags": [
         "education",
         "creative",
@@ -4520,7 +4520,7 @@
       "website": "https://www.linkedin.com/learning",
       "pwaUrl": "https://www.linkedin.com/learning",
       "manifestUrl": "https://www.linkedin.com/learning/manifest.json",
-      "icon": "https://www.linkedin.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64",
       "tags": [
         "education",
         "courses",
@@ -4545,7 +4545,7 @@
       "website": "https://www.codecademy.com",
       "pwaUrl": "https://www.codecademy.com",
       "manifestUrl": "https://www.codecademy.com/manifest.json",
-      "icon": "https://www.codecademy.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.codecademy.com&sz=64",
       "tags": [
         "coding",
         "education",
@@ -4570,7 +4570,7 @@
       "website": "https://www.freecodecamp.org",
       "pwaUrl": "https://www.freecodecamp.org",
       "manifestUrl": "https://www.freecodecamp.org/manifest.json",
-      "icon": "https://www.freecodecamp.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.freecodecamp.org&sz=64",
       "tags": [
         "coding",
         "education",
@@ -4595,7 +4595,7 @@
       "website": "https://quizlet.com",
       "pwaUrl": "https://quizlet.com",
       "manifestUrl": "https://quizlet.com/manifest.json",
-      "icon": "https://quizlet.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=quizlet.com&sz=64",
       "tags": [
         "flashcards",
         "learning",
@@ -4620,7 +4620,7 @@
       "website": "https://www.memrise.com",
       "pwaUrl": "https://www.memrise.com",
       "manifestUrl": "https://www.memrise.com/manifest.json",
-      "icon": "https://www.memrise.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.memrise.com&sz=64",
       "tags": [
         "language",
         "learning",
@@ -4645,7 +4645,7 @@
       "website": "https://www.rosettastone.com",
       "pwaUrl": "https://www.rosettastone.com",
       "manifestUrl": "https://www.rosettastone.com/manifest.json",
-      "icon": "https://www.rosettastone.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.rosettastone.com&sz=64",
       "tags": [
         "language",
         "learning",
@@ -4670,7 +4670,7 @@
       "website": "https://www.udacity.com",
       "pwaUrl": "https://www.udacity.com",
       "manifestUrl": "https://www.udacity.com/manifest.json",
-      "icon": "https://www.udacity.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.udacity.com&sz=64",
       "tags": [
         "education",
         "tech",
@@ -4695,7 +4695,7 @@
       "website": "https://www.pluralsight.com",
       "pwaUrl": "https://www.pluralsight.com",
       "manifestUrl": "https://www.pluralsight.com/manifest.json",
-      "icon": "https://www.pluralsight.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.pluralsight.com&sz=64",
       "tags": [
         "education",
         "tech",
@@ -4720,7 +4720,7 @@
       "website": "https://www.masterclass.com",
       "pwaUrl": "https://www.masterclass.com",
       "manifestUrl": "https://www.masterclass.com/manifest.json",
-      "icon": "https://www.masterclass.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.masterclass.com&sz=64",
       "tags": [
         "education",
         "celebrity",
@@ -4745,7 +4745,7 @@
       "website": "https://www.bbc.com/news",
       "pwaUrl": "https://www.bbc.com/news",
       "manifestUrl": "https://www.bbc.com/news/manifest.json",
-      "icon": "https://www.bbc.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.bbc.com&sz=64",
       "tags": [
         "news",
         "world",
@@ -4770,7 +4770,7 @@
       "website": "https://www.cnn.com",
       "pwaUrl": "https://www.cnn.com",
       "manifestUrl": "https://www.cnn.com/manifest.json",
-      "icon": "https://www.cnn.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.cnn.com&sz=64",
       "tags": [
         "news",
         "world",
@@ -4795,7 +4795,7 @@
       "website": "https://www.nytimes.com",
       "pwaUrl": "https://www.nytimes.com",
       "manifestUrl": "https://www.nytimes.com/manifest.json",
-      "icon": "https://www.nytimes.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.nytimes.com&sz=64",
       "tags": [
         "news",
         "newspaper",
@@ -4820,7 +4820,7 @@
       "website": "https://www.theguardian.com",
       "pwaUrl": "https://www.theguardian.com",
       "manifestUrl": "https://www.theguardian.com/manifest.json",
-      "icon": "https://www.theguardian.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.theguardian.com&sz=64",
       "tags": [
         "news",
         "uk",
@@ -4845,7 +4845,7 @@
       "website": "https://techcrunch.com",
       "pwaUrl": "https://techcrunch.com",
       "manifestUrl": "https://techcrunch.com/manifest.json",
-      "icon": "https://techcrunch.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=64",
       "tags": [
         "tech",
         "news",
@@ -4870,7 +4870,7 @@
       "website": "https://www.theverge.com",
       "pwaUrl": "https://www.theverge.com",
       "manifestUrl": "https://www.theverge.com/manifest.json",
-      "icon": "https://www.theverge.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.theverge.com&sz=64",
       "tags": [
         "tech",
         "news",
@@ -4895,7 +4895,7 @@
       "website": "https://arstechnica.com",
       "pwaUrl": "https://arstechnica.com",
       "manifestUrl": "https://arstechnica.com/manifest.json",
-      "icon": "https://arstechnica.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=64",
       "tags": [
         "tech",
         "news",
@@ -4920,7 +4920,7 @@
       "website": "https://news.ycombinator.com",
       "pwaUrl": "https://news.ycombinator.com",
       "manifestUrl": "https://news.ycombinator.com/manifest.json",
-      "icon": "https://news.ycombinator.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=64",
       "tags": [
         "tech",
         "news",
@@ -4945,7 +4945,7 @@
       "website": "https://news.google.com",
       "pwaUrl": "https://news.google.com",
       "manifestUrl": "https://news.google.com/manifest.json",
-      "icon": "https://news.google.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=news.google.com&sz=64",
       "tags": [
         "news",
         "aggregator",
@@ -4970,7 +4970,7 @@
       "website": "https://www.reuters.com",
       "pwaUrl": "https://www.reuters.com",
       "manifestUrl": "https://www.reuters.com/manifest.json",
-      "icon": "https://www.reuters.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.reuters.com&sz=64",
       "tags": [
         "news",
         "world",
@@ -4995,7 +4995,7 @@
       "website": "https://maps.google.com",
       "pwaUrl": "https://maps.google.com",
       "manifestUrl": "https://maps.google.com/manifest.json",
-      "icon": "https://maps.google.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=maps.google.com&sz=64",
       "tags": [
         "maps",
         "navigation",
@@ -5020,7 +5020,7 @@
       "website": "https://m.uber.com",
       "pwaUrl": "https://m.uber.com",
       "manifestUrl": "https://m.uber.com/manifest.json",
-      "icon": "https://www.uber.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=m.uber.com&sz=64",
       "tags": [
         "rides",
         "transport",
@@ -5045,7 +5045,7 @@
       "website": "https://www.lyft.com",
       "pwaUrl": "https://www.lyft.com",
       "manifestUrl": "https://www.lyft.com/manifest.json",
-      "icon": "https://www.lyft.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.lyft.com&sz=64",
       "tags": [
         "rides",
         "transport",
@@ -5070,7 +5070,7 @@
       "website": "https://www.grab.com",
       "pwaUrl": "https://www.grab.com",
       "manifestUrl": "https://www.grab.com/manifest.json",
-      "icon": "https://www.grab.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.grab.com&sz=64",
       "tags": [
         "rides",
         "food",
@@ -5095,7 +5095,7 @@
       "website": "https://www.booking.com",
       "pwaUrl": "https://www.booking.com",
       "manifestUrl": "https://www.booking.com/manifest.json",
-      "icon": "https://www.booking.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.booking.com&sz=64",
       "tags": [
         "hotels",
         "travel",
@@ -5120,7 +5120,7 @@
       "website": "https://www.airbnb.com",
       "pwaUrl": "https://www.airbnb.com",
       "manifestUrl": "https://www.airbnb.com/manifest.json",
-      "icon": "https://www.airbnb.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.airbnb.com&sz=64",
       "tags": [
         "vacation",
         "rentals",
@@ -5145,7 +5145,7 @@
       "website": "https://www.expedia.com",
       "pwaUrl": "https://www.expedia.com",
       "manifestUrl": "https://www.expedia.com/manifest.json",
-      "icon": "https://www.expedia.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.expedia.com&sz=64",
       "tags": [
         "travel",
         "booking",
@@ -5170,7 +5170,7 @@
       "website": "https://www.tripadvisor.com",
       "pwaUrl": "https://www.tripadvisor.com",
       "manifestUrl": "https://www.tripadvisor.com/manifest.json",
-      "icon": "https://www.tripadvisor.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.tripadvisor.com&sz=64",
       "tags": [
         "travel",
         "reviews",
@@ -5195,7 +5195,7 @@
       "website": "https://maps.me",
       "pwaUrl": "https://maps.me",
       "manifestUrl": "https://maps.me/manifest.json",
-      "icon": "https://maps.me/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=maps.me&sz=64",
       "tags": [
         "maps",
         "offline",
@@ -5220,7 +5220,7 @@
       "website": "https://www.waze.com",
       "pwaUrl": "https://www.waze.com",
       "manifestUrl": "https://www.waze.com/manifest.json",
-      "icon": "https://www.waze.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.waze.com&sz=64",
       "tags": [
         "navigation",
         "traffic",
@@ -5245,7 +5245,7 @@
       "website": "https://www.doordash.com",
       "pwaUrl": "https://www.doordash.com",
       "manifestUrl": "https://www.doordash.com/manifest.json",
-      "icon": "https://www.doordash.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.doordash.com&sz=64",
       "tags": [
         "food",
         "delivery",
@@ -5270,7 +5270,7 @@
       "website": "https://www.ubereats.com",
       "pwaUrl": "https://www.ubereats.com",
       "manifestUrl": "https://www.ubereats.com/manifest.json",
-      "icon": "https://www.ubereats.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.ubereats.com&sz=64",
       "tags": [
         "food",
         "delivery",
@@ -5295,7 +5295,7 @@
       "website": "https://www.grubhub.com",
       "pwaUrl": "https://www.grubhub.com",
       "manifestUrl": "https://www.grubhub.com/manifest.json",
-      "icon": "https://www.grubhub.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.grubhub.com&sz=64",
       "tags": [
         "food",
         "delivery",
@@ -5320,7 +5320,7 @@
       "website": "https://deliveroo.co.uk",
       "pwaUrl": "https://deliveroo.co.uk",
       "manifestUrl": "https://deliveroo.co.uk/manifest.json",
-      "icon": "https://deliveroo.co.uk/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=deliveroo.co.uk&sz=64",
       "tags": [
         "food",
         "delivery",
@@ -5345,7 +5345,7 @@
       "website": "https://www.swiggy.com",
       "pwaUrl": "https://www.swiggy.com",
       "manifestUrl": "https://www.swiggy.com/manifest.json",
-      "icon": "https://www.swiggy.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.swiggy.com&sz=64",
       "tags": [
         "food",
         "delivery",
@@ -5370,7 +5370,7 @@
       "website": "https://www.zomato.com",
       "pwaUrl": "https://www.zomato.com",
       "manifestUrl": "https://www.zomato.com/manifest.json",
-      "icon": "https://www.zomato.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.zomato.com&sz=64",
       "tags": [
         "food",
         "delivery",
@@ -5395,7 +5395,7 @@
       "website": "https://food.grab.com",
       "pwaUrl": "https://food.grab.com",
       "manifestUrl": "https://food.grab.com/manifest.json",
-      "icon": "https://www.grab.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=food.grab.com&sz=64",
       "tags": [
         "food",
         "delivery",
@@ -5420,7 +5420,7 @@
       "website": "https://postmates.com",
       "pwaUrl": "https://postmates.com",
       "manifestUrl": "https://postmates.com/manifest.json",
-      "icon": "https://postmates.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=postmates.com&sz=64",
       "tags": [
         "food",
         "delivery",
@@ -5445,7 +5445,7 @@
       "website": "https://www.canva.com",
       "pwaUrl": "https://www.canva.com",
       "manifestUrl": "https://www.canva.com/manifest.json",
-      "icon": "https://www.canva.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.canva.com&sz=64",
       "tags": [
         "design",
         "graphics",
@@ -5470,7 +5470,7 @@
       "website": "https://www.remove.bg",
       "pwaUrl": "https://www.remove.bg",
       "manifestUrl": "https://www.remove.bg/manifest.json",
-      "icon": "https://www.remove.bg/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.remove.bg&sz=64",
       "tags": [
         "image",
         "background",
@@ -5495,7 +5495,7 @@
       "website": "https://www.photopea.com",
       "pwaUrl": "https://www.photopea.com",
       "manifestUrl": "https://www.photopea.com/manifest.json",
-      "icon": "https://www.photopea.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.photopea.com&sz=64",
       "tags": [
         "editor",
         "photoshop",
@@ -5520,7 +5520,7 @@
       "website": "https://pixlr.com",
       "pwaUrl": "https://pixlr.com",
       "manifestUrl": "https://pixlr.com/manifest.json",
-      "icon": "https://pixlr.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=pixlr.com&sz=64",
       "tags": [
         "photo",
         "editor",
@@ -5545,7 +5545,7 @@
       "website": "https://www.ilovepdf.com",
       "pwaUrl": "https://www.ilovepdf.com",
       "manifestUrl": "https://www.ilovepdf.com/manifest.json",
-      "icon": "https://www.ilovepdf.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.ilovepdf.com&sz=64",
       "tags": [
         "pdf",
         "tools",
@@ -5570,7 +5570,7 @@
       "website": "https://www.iloveimg.com",
       "pwaUrl": "https://www.iloveimg.com",
       "manifestUrl": "https://www.iloveimg.com/manifest.json",
-      "icon": "https://www.iloveimg.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.iloveimg.com&sz=64",
       "tags": [
         "image",
         "tools",
@@ -5595,7 +5595,7 @@
       "website": "https://smallpdf.com",
       "pwaUrl": "https://smallpdf.com",
       "manifestUrl": "https://smallpdf.com/manifest.json",
-      "icon": "https://smallpdf.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=smallpdf.com&sz=64",
       "tags": [
         "pdf",
         "tools",
@@ -5620,7 +5620,7 @@
       "website": "https://zapier.com",
       "pwaUrl": "https://zapier.com",
       "manifestUrl": "https://zapier.com/manifest.json",
-      "icon": "https://zapier.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=zapier.com&sz=64",
       "tags": [
         "automation",
         "workflow",
@@ -5645,7 +5645,7 @@
       "website": "https://ifttt.com",
       "pwaUrl": "https://ifttt.com",
       "manifestUrl": "https://ifttt.com/manifest.json",
-      "icon": "https://ifttt.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=ifttt.com&sz=64",
       "tags": [
         "automation",
         "applets",
@@ -5670,7 +5670,7 @@
       "website": "https://my.1password.com",
       "pwaUrl": "https://my.1password.com",
       "manifestUrl": "https://my.1password.com/manifest.json",
-      "icon": "https://my.1password.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=my.1password.com&sz=64",
       "tags": [
         "password",
         "security",
@@ -5695,7 +5695,7 @@
       "website": "https://vault.bitwarden.com",
       "pwaUrl": "https://vault.bitwarden.com",
       "manifestUrl": "https://vault.bitwarden.com/manifest.json",
-      "icon": "https://bitwarden.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=vault.bitwarden.com&sz=64",
       "tags": [
         "password",
         "security",
@@ -5720,7 +5720,7 @@
       "website": "https://lastpass.com",
       "pwaUrl": "https://lastpass.com",
       "manifestUrl": "https://lastpass.com/manifest.json",
-      "icon": "https://lastpass.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=lastpass.com&sz=64",
       "tags": [
         "password",
         "security",
@@ -5745,7 +5745,7 @@
       "website": "https://app.grammarly.com",
       "pwaUrl": "https://app.grammarly.com",
       "manifestUrl": "https://app.grammarly.com/manifest.json",
-      "icon": "https://www.grammarly.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.grammarly.com&sz=64",
       "tags": [
         "writing",
         "grammar",
@@ -5770,7 +5770,7 @@
       "website": "https://tinywow.com",
       "pwaUrl": "https://tinywow.com",
       "manifestUrl": "https://tinywow.com/manifest.json",
-      "icon": "https://tinywow.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=tinywow.com&sz=64",
       "tags": [
         "files",
         "tools",
@@ -5795,7 +5795,7 @@
       "website": "https://tools.pdf24.org",
       "pwaUrl": "https://tools.pdf24.org",
       "manifestUrl": "https://tools.pdf24.org/manifest.json",
-      "icon": "https://tools.pdf24.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=tools.pdf24.org&sz=64",
       "tags": [
         "pdf",
         "tools",
@@ -5820,7 +5820,7 @@
       "website": "https://photos.google.com",
       "pwaUrl": "https://photos.google.com",
       "manifestUrl": "https://photos.google.com/manifest.json",
-      "icon": "https://photos.google.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=photos.google.com&sz=64",
       "tags": [
         "photos",
         "storage",
@@ -5845,7 +5845,7 @@
       "website": "https://www.flickr.com",
       "pwaUrl": "https://www.flickr.com",
       "manifestUrl": "https://www.flickr.com/manifest.json",
-      "icon": "https://www.flickr.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.flickr.com&sz=64",
       "tags": [
         "photos",
         "sharing",
@@ -5870,7 +5870,7 @@
       "website": "https://500px.com",
       "pwaUrl": "https://500px.com",
       "manifestUrl": "https://500px.com/manifest.json",
-      "icon": "https://500px.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=500px.com&sz=64",
       "tags": [
         "photos",
         "photography",
@@ -5895,7 +5895,7 @@
       "website": "https://unsplash.com",
       "pwaUrl": "https://unsplash.com",
       "manifestUrl": "https://unsplash.com/manifest.json",
-      "icon": "https://unsplash.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=unsplash.com&sz=64",
       "tags": [
         "photos",
         "free",
@@ -5920,7 +5920,7 @@
       "website": "https://www.pexels.com",
       "pwaUrl": "https://www.pexels.com",
       "manifestUrl": "https://www.pexels.com/manifest.json",
-      "icon": "https://www.pexels.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.pexels.com&sz=64",
       "tags": [
         "photos",
         "free",
@@ -5945,7 +5945,7 @@
       "website": "https://pixabay.com",
       "pwaUrl": "https://pixabay.com",
       "manifestUrl": "https://pixabay.com/manifest.json",
-      "icon": "https://pixabay.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=pixabay.com&sz=64",
       "tags": [
         "photos",
         "free",
@@ -5970,7 +5970,7 @@
       "website": "https://imgur.com",
       "pwaUrl": "https://imgur.com",
       "manifestUrl": "https://imgur.com/manifest.json",
-      "icon": "https://imgur.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=imgur.com&sz=64",
       "tags": [
         "images",
         "hosting",
@@ -5995,7 +5995,7 @@
       "website": "https://prisma-ai.com",
       "pwaUrl": "https://prisma-ai.com",
       "manifestUrl": "https://prisma-ai.com/manifest.json",
-      "icon": "https://prisma-ai.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=prisma-ai.com&sz=64",
       "tags": [
         "photo",
         "art",
@@ -6020,7 +6020,7 @@
       "website": "https://www.birme.net",
       "pwaUrl": "https://www.birme.net",
       "manifestUrl": "https://www.birme.net/manifest.json",
-      "icon": "https://www.birme.net/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.birme.net&sz=64",
       "tags": [
         "image",
         "resize",
@@ -6045,7 +6045,7 @@
       "website": "https://www.webpconverter.com",
       "pwaUrl": "https://www.webpconverter.com",
       "manifestUrl": "https://www.webpconverter.com/manifest.json",
-      "icon": "https://www.webpconverter.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.webpconverter.com&sz=64",
       "tags": [
         "image",
         "webp",
@@ -6070,7 +6070,7 @@
       "website": "https://www.chess.com",
       "pwaUrl": "https://www.chess.com",
       "manifestUrl": "https://www.chess.com/manifest.json",
-      "icon": "https://www.chess.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.chess.com&sz=64",
       "tags": [
         "chess",
         "game",
@@ -6095,7 +6095,7 @@
       "website": "https://lichess.org",
       "pwaUrl": "https://lichess.org",
       "manifestUrl": "https://lichess.org/manifest.json",
-      "icon": "https://lichess.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=lichess.org&sz=64",
       "tags": [
         "chess",
         "game",
@@ -6120,7 +6120,7 @@
       "website": "https://www.scrabble.com",
       "pwaUrl": "https://www.scrabble.com",
       "manifestUrl": "https://www.scrabble.com/manifest.json",
-      "icon": "https://www.scrabble.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.scrabble.com&sz=64",
       "tags": [
         "scrabble",
         "word",
@@ -6145,7 +6145,7 @@
       "website": "https://www.wordswithfriends.com",
       "pwaUrl": "https://www.wordswithfriends.com",
       "manifestUrl": "https://www.wordswithfriends.com/manifest.json",
-      "icon": "https://www.wordswithfriends.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.wordswithfriends.com&sz=64",
       "tags": [
         "words",
         "game",
@@ -6170,7 +6170,7 @@
       "website": "https://solitaire.com",
       "pwaUrl": "https://solitaire.com",
       "manifestUrl": "https://solitaire.com/manifest.json",
-      "icon": "https://solitaire.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=solitaire.com&sz=64",
       "tags": [
         "solitaire",
         "card",
@@ -6195,7 +6195,7 @@
       "website": "https://mahjong.com",
       "pwaUrl": "https://mahjong.com",
       "manifestUrl": "https://mahjong.com/manifest.json",
-      "icon": "https://mahjong.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=mahjong.com&sz=64",
       "tags": [
         "mahjong",
         "tile",
@@ -6220,7 +6220,7 @@
       "website": "https://www.sudoku.com",
       "pwaUrl": "https://www.sudoku.com",
       "manifestUrl": "https://www.sudoku.com/manifest.json",
-      "icon": "https://www.sudoku.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.sudoku.com&sz=64",
       "tags": [
         "sudoku",
         "puzzle",
@@ -6245,7 +6245,7 @@
       "website": "https://www.crosswordpuzzles.com",
       "pwaUrl": "https://www.crosswordpuzzles.com",
       "manifestUrl": "https://www.crosswordpuzzles.com/manifest.json",
-      "icon": "https://www.crosswordpuzzles.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.crosswordpuzzles.com&sz=64",
       "tags": [
         "crossword",
         "word",
@@ -6270,7 +6270,7 @@
       "website": "https://playsnake.org",
       "pwaUrl": "https://playsnake.org",
       "manifestUrl": "https://playsnake.org/manifest.json",
-      "icon": "https://playsnake.org/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=playsnake.org&sz=64",
       "tags": [
         "snake",
         "classic",
@@ -6295,7 +6295,7 @@
       "website": "https://play2048.co",
       "pwaUrl": "https://play2048.co",
       "manifestUrl": "https://play2048.co/manifest.json",
-      "icon": "https://play2048.co/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=play2048.co&sz=64",
       "tags": [
         "2048",
         "puzzle",
@@ -6320,7 +6320,7 @@
       "website": "https://www.myfitnesspal.com",
       "pwaUrl": "https://www.myfitnesspal.com",
       "manifestUrl": "https://www.myfitnesspal.com/manifest.json",
-      "icon": "https://www.myfitnesspal.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.myfitnesspal.com&sz=64",
       "tags": [
         "health",
         "fitness",
@@ -6345,7 +6345,7 @@
       "website": "https://www.headspace.com",
       "pwaUrl": "https://www.headspace.com",
       "manifestUrl": "https://www.headspace.com/manifest.json",
-      "icon": "https://www.headspace.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.headspace.com&sz=64",
       "tags": [
         "meditation",
         "mental",
@@ -6370,7 +6370,7 @@
       "website": "https://www.calm.com",
       "pwaUrl": "https://www.calm.com",
       "manifestUrl": "https://www.calm.com/manifest.json",
-      "icon": "https://www.calm.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.calm.com&sz=64",
       "tags": [
         "meditation",
         "sleep",
@@ -6395,7 +6395,7 @@
       "website": "https://www.strava.com",
       "pwaUrl": "https://www.strava.com",
       "manifestUrl": "https://www.strava.com/manifest.json",
-      "icon": "https://www.strava.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.strava.com&sz=64",
       "tags": [
         "fitness",
         "tracking",
@@ -6420,7 +6420,7 @@
       "website": "https://www.sleepcycle.com",
       "pwaUrl": "https://www.sleepcycle.com",
       "manifestUrl": "https://www.sleepcycle.com/manifest.json",
-      "icon": "https://www.sleepcycle.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.sleepcycle.com&sz=64",
       "tags": [
         "sleep",
         "health",
@@ -6445,7 +6445,7 @@
       "website": "https://www.noom.com",
       "pwaUrl": "https://www.noom.com",
       "manifestUrl": "https://www.noom.com/manifest.json",
-      "icon": "https://www.noom.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.noom.com&sz=64",
       "tags": [
         "health",
         "coaching",
@@ -6470,7 +6470,7 @@
       "website": "https://www.fitbit.com",
       "pwaUrl": "https://www.fitbit.com",
       "manifestUrl": "https://www.fitbit.com/manifest.json",
-      "icon": "https://www.fitbit.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.fitbit.com&sz=64",
       "tags": [
         "fitness",
         "tracking",
@@ -6495,7 +6495,7 @@
       "website": "https://sworkit.com",
       "pwaUrl": "https://sworkit.com",
       "manifestUrl": "https://sworkit.com/manifest.json",
-      "icon": "https://sworkit.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=sworkit.com&sz=64",
       "tags": [
         "health",
         "workout",
@@ -6520,7 +6520,7 @@
       "website": "https://www.salesforce.com",
       "pwaUrl": "https://www.salesforce.com",
       "manifestUrl": "https://www.salesforce.com/manifest.json",
-      "icon": "https://www.salesforce.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.salesforce.com&sz=64",
       "tags": [
         "crm",
         "business",
@@ -6545,7 +6545,7 @@
       "website": "https://app.hubspot.com",
       "pwaUrl": "https://app.hubspot.com",
       "manifestUrl": "https://app.hubspot.com/manifest.json",
-      "icon": "https://www.hubspot.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=app.hubspot.com&sz=64",
       "tags": [
         "crm",
         "marketing",
@@ -6570,7 +6570,7 @@
       "website": "https://www.zendesk.com",
       "pwaUrl": "https://www.zendesk.com",
       "manifestUrl": "https://www.zendesk.com/manifest.json",
-      "icon": "https://www.zendesk.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.zendesk.com&sz=64",
       "tags": [
         "support",
         "customer",
@@ -6595,7 +6595,7 @@
       "website": "https://freshdesk.com",
       "pwaUrl": "https://freshdesk.com",
       "manifestUrl": "https://freshdesk.com/manifest.json",
-      "icon": "https://freshdesk.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=freshdesk.com&sz=64",
       "tags": [
         "support",
         "customer",
@@ -6620,7 +6620,7 @@
       "website": "https://www.intercom.com",
       "pwaUrl": "https://www.intercom.com",
       "manifestUrl": "https://www.intercom.com/manifest.json",
-      "icon": "https://www.intercom.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.intercom.com&sz=64",
       "tags": [
         "messaging",
         "customer",
@@ -6645,7 +6645,7 @@
       "website": "https://trello.com/business",
       "pwaUrl": "https://trello.com/business",
       "manifestUrl": "https://trello.com/business/manifest.json",
-      "icon": "https://trello.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=trello.com&sz=64",
       "tags": [
         "project",
         "management",
@@ -6670,7 +6670,7 @@
       "website": "https://monday.com",
       "pwaUrl": "https://monday.com",
       "manifestUrl": "https://monday.com/manifest.json",
-      "icon": "https://monday.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=monday.com&sz=64",
       "tags": [
         "work",
         "management",
@@ -6695,7 +6695,7 @@
       "website": "https://slack.com/business",
       "pwaUrl": "https://slack.com/business",
       "manifestUrl": "https://slack.com/business/manifest.json",
-      "icon": "https://slack.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
       "tags": [
         "messaging",
         "team",
@@ -6720,7 +6720,7 @@
       "website": "https://zoom.us/business",
       "pwaUrl": "https://zoom.us/business",
       "manifestUrl": "https://zoom.us/business/manifest.json",
-      "icon": "https://zoom.us/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
       "tags": [
         "video",
         "meetings",
@@ -6745,7 +6745,7 @@
       "website": "https://www.dropbox.com/business",
       "pwaUrl": "https://www.dropbox.com/business",
       "manifestUrl": "https://www.dropbox.com/business/manifest.json",
-      "icon": "https://www.dropbox.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.dropbox.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6770,7 +6770,7 @@
       "website": "https://drive.google.com",
       "pwaUrl": "https://drive.google.com",
       "manifestUrl": "https://drive.google.com/manifest.json",
-      "icon": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_512dp.png",
+      "icon": "https://www.google.com/s2/favicons?domain=drive.google.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6795,7 +6795,7 @@
       "website": "https://www.dropbox.com",
       "pwaUrl": "https://www.dropbox.com",
       "manifestUrl": "https://www.dropbox.com/manifest.json",
-      "icon": "https://dropbox.com/static/images/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.dropbox.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6820,7 +6820,7 @@
       "website": "https://onedrive.live.com",
       "pwaUrl": "https://onedrive.live.com",
       "manifestUrl": "https://onedrive.live.com/manifest.json",
-      "icon": "https://onedrive.live.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=onedrive.live.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6845,7 +6845,7 @@
       "website": "https://www.icloud.com",
       "pwaUrl": "https://www.icloud.com",
       "manifestUrl": "https://www.icloud.com/manifest.json",
-      "icon": "https://www.icloud.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.icloud.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6870,7 +6870,7 @@
       "website": "https://www.box.com",
       "pwaUrl": "https://www.box.com",
       "manifestUrl": "https://www.box.com/manifest.json",
-      "icon": "https://www.box.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.box.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6895,7 +6895,7 @@
       "website": "https://mega.io",
       "pwaUrl": "https://mega.io",
       "manifestUrl": "https://mega.io/manifest.json",
-      "icon": "https://mega.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=mega.io&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6920,7 +6920,7 @@
       "website": "https://www.pcloud.com",
       "pwaUrl": "https://www.pcloud.com",
       "manifestUrl": "https://www.pcloud.com/manifest.json",
-      "icon": "https://www.pcloud.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.pcloud.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6945,7 +6945,7 @@
       "website": "https://www.sync.com",
       "pwaUrl": "https://www.sync.com",
       "manifestUrl": "https://www.sync.com/manifest.json",
-      "icon": "https://www.sync.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.sync.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6970,7 +6970,7 @@
       "website": "https://webtresorit.com",
       "pwaUrl": "https://webtresorit.com",
       "manifestUrl": "https://webtresorit.com/manifest.json",
-      "icon": "https://webtresorit.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=webtresorit.com&sz=64",
       "tags": [
         "cloud",
         "storage",
@@ -6995,7 +6995,7 @@
       "website": "https://www.idrive.com",
       "pwaUrl": "https://www.idrive.com",
       "manifestUrl": "https://www.idrive.com/manifest.json",
-      "icon": "https://www.idrive.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.idrive.com&sz=64",
       "tags": [
         "cloud",
         "backup",
@@ -7020,7 +7020,7 @@
       "website": "https://www.backblaze.com",
       "pwaUrl": "https://www.backblaze.com",
       "manifestUrl": "https://www.backblaze.com/manifest.json",
-      "icon": "https://www.backblaze.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.backblaze.com&sz=64",
       "tags": [
         "cloud",
         "backup",
@@ -7044,7 +7044,7 @@
       "website": "https://www.carbonite.com",
       "pwaUrl": "https://www.carbonite.com",
       "manifestUrl": "https://www.carbonite.com/manifest.json",
-      "icon": "https://www.carbonite.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.carbonite.com&sz=64",
       "tags": [
         "cloud",
         "backup",
@@ -7068,7 +7068,7 @@
       "website": "https://localhost:5173/apps/calculator",
       "pwaUrl": "https://localhost:5173/apps/calculator",
       "manifestUrl": "https://localhost:5173/apps/calculator/manifest.json",
-      "icon": "https://klatos.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=localhost&sz=64",
       "tags": [
         "calculator",
         "math",
@@ -7093,7 +7093,7 @@
       "website": "https://localhost:5173/apps/settings",
       "pwaUrl": "https://localhost:5173/apps/settings",
       "manifestUrl": "https://localhost:5173/apps/settings/manifest.json",
-      "icon": "https://klatos.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=localhost&sz=64",
       "tags": [
         "settings",
         "system",
@@ -7118,7 +7118,7 @@
       "website": "https://localhost:5173/apps/files",
       "pwaUrl": "https://localhost:5173/apps/files",
       "manifestUrl": "https://localhost:5173/apps/files/manifest.json",
-      "icon": "https://klatos.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=localhost&sz=64",
       "tags": [
         "files",
         "manager",
@@ -7143,7 +7143,7 @@
       "website": "https://localhost:5173/apps/terminal",
       "pwaUrl": "https://localhost:5173/apps/terminal",
       "manifestUrl": "https://localhost:5173/apps/terminal/manifest.json",
-      "icon": "https://klatos.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=localhost&sz=64",
       "tags": [
         "terminal",
         "command",
@@ -7168,7 +7168,7 @@
       "website": "https://localhost:5173/apps/assistant",
       "pwaUrl": "https://localhost:5173/apps/assistant",
       "manifestUrl": "https://localhost:5173/apps/assistant/manifest.json",
-      "icon": "https://klatos.io/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=localhost&sz=64",
       "tags": [
         "assistant",
         "ai",
@@ -7193,7 +7193,7 @@
       "website": "https://www.twitch.tv",
       "pwaUrl": "https://www.twitch.tv",
       "manifestUrl": "https://www.twitch.tv/manifest.json",
-      "icon": "https://www.twitch.tv/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.twitch.tv&sz=64",
       "tags": [
         "streaming",
         "gaming",
@@ -7218,7 +7218,7 @@
       "website": "https://open.spotify.com",
       "pwaUrl": "https://open.spotify.com",
       "manifestUrl": "https://open.spotify.com/manifest.json",
-      "icon": "https://open.spotifycdn.com/images/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=open.spotify.com&sz=64",
       "tags": [
         "music",
         "streaming",
@@ -7243,7 +7243,7 @@
       "website": "https://youtube.com",
       "pwaUrl": "https://youtube.com",
       "manifestUrl": "https://youtube.com/manifest.json",
-      "icon": "https://www.youtube.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=64",
       "tags": [
         "video",
         "watch",
@@ -7268,7 +7268,7 @@
       "website": "https://www.netflix.com",
       "pwaUrl": "https://www.netflix.com",
       "manifestUrl": "https://www.netflix.com/manifest.json",
-      "icon": "https://www.netflix.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.netflix.com&sz=64",
       "tags": [
         "movies",
         "tv",
@@ -7293,7 +7293,7 @@
       "website": "https://www.disneyplus.com",
       "pwaUrl": "https://www.disneyplus.com",
       "manifestUrl": "https://www.disneyplus.com/manifest.json",
-      "icon": "https://www.disneyplus.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.disneyplus.com&sz=64",
       "tags": [
         "streaming",
         "disney",
@@ -7318,7 +7318,7 @@
       "website": "https://www.max.com",
       "pwaUrl": "https://www.max.com",
       "manifestUrl": "https://www.max.com/manifest.json",
-      "icon": "https://www.max.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.max.com&sz=64",
       "tags": [
         "streaming",
         "hbo",
@@ -7343,7 +7343,7 @@
       "website": "https://www.primevideo.com",
       "pwaUrl": "https://www.primevideo.com",
       "manifestUrl": "https://www.primevideo.com/manifest.json",
-      "icon": "https://www.primevideo.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.primevideo.com&sz=64",
       "tags": [
         "streaming",
         "amazon",
@@ -7368,7 +7368,7 @@
       "website": "https://www.hulu.com",
       "pwaUrl": "https://www.hulu.com",
       "manifestUrl": "https://www.hulu.com/manifest.json",
-      "icon": "https://www.hulu.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.hulu.com&sz=64",
       "tags": [
         "streaming",
         "tv",
@@ -7393,7 +7393,7 @@
       "website": "https://www.peacocktv.com",
       "pwaUrl": "https://www.peacocktv.com",
       "manifestUrl": "https://www.peacocktv.com/manifest.json",
-      "icon": "https://www.peacocktv.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.peacocktv.com&sz=64",
       "tags": [
         "streaming",
         "nbc",
@@ -7418,7 +7418,7 @@
       "website": "https://www.crunchyroll.com",
       "pwaUrl": "https://www.crunchyroll.com",
       "manifestUrl": "https://www.crunchyroll.com/manifest.json",
-      "icon": "https://www.crunchyroll.com/favicon.ico",
+      "icon": "https://www.google.com/s2/favicons?domain=www.crunchyroll.com&sz=64",
       "tags": [
         "anime",
         "streaming",
